@@ -1,0 +1,40 @@
+#main {
+    width: 90%;
+    margin: 0 auto;
+    /* top/bottom - 0; left; right - auto */
+}
+
+h1 {
+    text-align: center;
+}
+
+#dados-contato,
+#foto {
+    float: left;
+}
+
+#dados-contato {
+    width: 70%;
+}
+
+#foto {
+    width: 30%;
+    text-align: right;
+}
+#foto img{
+    width: 150px;
+    height: 150px;
+}
+
+#formacao {
+    clear: left;
+}
+
+#lista {
+    color: #00f;
+}
+
+.subtitulo-formacao {
+    background-color: #ffff00;
+    padding: 1%;
+}
